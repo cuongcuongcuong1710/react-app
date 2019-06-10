@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+  }
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+td {
+    text-align: left;
+}
+
+div {
+    margin: 20px;
+}
+input {
+  font-size: 17px;
+  padding: 7px 20px;
+  width: 320px;
+}
+.btn {
+    border: transparent;
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 0px 5px;
+}
+
+.btn:hover {
+    background-color: #21A9F8;
+}
+
+

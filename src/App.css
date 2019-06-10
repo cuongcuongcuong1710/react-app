@@ -1,0 +1,20 @@
+.title {
+  color: red;
+}
+.wrapper-body {
+  width: 100%;
+  height: auto;
+  margin: 5px;
+  border: 2px solid black;
+}
+ul{
+  overflow: hidden;
+  margin: 3px;
+}
+li{
+  float: left;
+  display: block;
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+}

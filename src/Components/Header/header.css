@@ -1,0 +1,44 @@
+.wrapper-header{
+    width: 100%;
+    height: 200px;
+    border: 2px black solid;
+    margin: 5px;
+}
+
+.header-left {
+    width: 200px;
+    height: 180px;
+    float: left;
+    margin: 10px;
+    border: 1px green solid;
+}
+.header-left img {
+    width: 100%;
+}
+
+.header-right {
+    width: 200px;
+    height: 180px;
+    float: right;
+    margin: 10px;
+    border: 1px red solid;
+}
+
+.index-header {
+    background-image: url(../../Resources/imgs/banner.jpeg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+.wrapper-banner {
+    z-index: 1;
+}
+
+.wraper-content {
+    z-index: 2;
+}
+/* ------------------------------------------------------------------------------------
+ */
